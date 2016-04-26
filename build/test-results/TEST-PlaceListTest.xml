@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PlaceListTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-04-26T17:20:50" hostname="epicodus-79.local" time="0.0">
+  <properties/>
+  <testcase name="PlaceList_instantiatesWithDescription_String" classname="PlaceListTest" time="0.0"/>
+  <testcase name="PlaceList_instantiatesCorrectly_true" classname="PlaceListTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
